@@ -28,7 +28,7 @@ public class ButtonCheck : MonoBehaviour
 
     void Start()
     {
-        //Debug.Log("ハンドオブジェクト："+Hand_Script.hand.handObject);
+        
     }
 
     void Update()
