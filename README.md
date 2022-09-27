@@ -1,6 +1,6 @@
 **作品の詳しい内容はポートフォリオと動画をご覧ください**
 # MistGunner
-**ダウンロード先（ギガファイル便）https://xgf.nu/awDi**<br>
+**ダウンロード先（ギガファイル便）https://xgf.nu/usAW**<br>
 **【OnlyHandWarp】**<br>
 ワープを司るスクリプトです。
 LineRenererによるLineの生成、Raycastによるワープするオブジェクト情報の取得、ベジェ曲線の仕組みを行っています。<br>
